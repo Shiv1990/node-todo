@@ -1,4 +1,4 @@
 module.exports = {
-    remoteUrl : 'mongodb://node:nodeuser@mongo.onmodulus.net:27017/uwO3mypu',
-    localUrl: 'mongodb://localhost/meanstacktutorials'
+    remoteUrl : 'mongodb://myquitcosmosdb:JErVbiHUaGBFznSfiZAXeaqu7AefJDUQX9yfK6K78oEvqLiqpKb5LGnP7nekMMmV2IuPPODzfJCkaeqP4COzBg==@myquitcosmosdb.documents.azure.com:10255/?ssl=true&replicaSet=globaldb',
+    localUrl: 'mongodb://localhost/myquit'
 };
